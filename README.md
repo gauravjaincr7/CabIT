@@ -78,6 +78,6 @@ Distributed under the MIT License. See [LICENSE][license-url] for more informati
 
 ## Contact
 
-Gaurav Jain - [gauravjaincr7][https://www.linkedin.com/in/gauravjn/] - gauravjain.cr7@gmail.com
+Gaurav Jain - [https://www.linkedin.com/in/gauravjn/] - gauravjain.cr7@gmail.com
 
 Project Link: [https://github.com/gauravjaincr7/CabIT](https://github.com/gauravjaincr7/CabIT)
