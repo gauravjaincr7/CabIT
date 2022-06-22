@@ -20,14 +20,6 @@ CabIT is built using the  SQL, Express, React and NodeJS ) stack.
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
-
-
-- **npm**
-  ```sh
-  npm install npm@latest -g
-  ```
-
 
 
 ### Installation
@@ -75,6 +67,6 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 
-Gaurav Jain  - gauravjain.cr7@gmail.com
+Gaurav Jain(gauravjain.cr7@gmail.com)
 
 Project Link: [https://github.com/gauravjaincr7/CabIT](https://github.com/gauravjaincr7/CabIT)
