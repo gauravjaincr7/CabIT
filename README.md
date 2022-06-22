@@ -1,12 +1,3 @@
-#
-[![MIT License][license-shield]][license-url]
-[![Language][language-url]][language-url]
-[![Build Status][travis-badge]][travis-badge]
-[![CodeQL][codeql-badge]][codeql-badge]
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
-[![Dependencies][dependencies-badge]][dependencies-badge]
-
 # CabIT
 
 
