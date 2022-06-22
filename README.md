@@ -70,14 +70,11 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push -u origin AmazingFeature`)
 5. Open a Pull Request
 
-For a more detailed walkthrough, see [CONTRIBUTING][contributing-link] for more information.
 
-## License
 
-Distributed under the MIT License. See [LICENSE][license-url] for more information.
 
 ## Contact
 
-Gaurav Jain - [https://www.linkedin.com/in/gauravjn/] - gauravjain.cr7@gmail.com
+Gaurav Jain  - gauravjain.cr7@gmail.com
 
 Project Link: [https://github.com/gauravjaincr7/CabIT](https://github.com/gauravjaincr7/CabIT)
